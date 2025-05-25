@@ -51,7 +51,7 @@ equipeDefensora.mostrarEquipe();
 
 ## 🔗 Link do Enunciado
 
-[Clique aqui para acessar o PDF com o enunciado da atividade](INSIRA_AQUI_O_LINK_DO_PDF_NO_GITHUB)
+[Clique aqui para acessar o PDF com o enunciado da atividade](https://github.com/KrigerThomas/atividade-extra-poo/blob/main/Atividade%20Extra.pdf)
 
 ---
 
