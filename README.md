@@ -14,25 +14,6 @@ Este projeto simula um sistema de gerenciamento de operadores baseado no univers
 
 ---
 
-## 🛠️ Tecnologias
-- Java 17+
-- IDE utilizada: NetBeans (compatível com IntelliJ/Eclipse)
-- Paradigma: Programação Orientada a Objetos
-
----
-
-## 📁 Estrutura do Projeto
-```
-src/
-└── com.mycompany.atividade_extra_r6/
-    ├── Operador.java          # Classe abstrata
-    ├── Atacante.java          # Subclasse concreta
-    ├── Defensor.java          # Subclasse concreta + interface
-    ├── IReforcar.java         # Interface
-    ├── Equipe.java            # Coleção de operadores
-    └── Atividade_Extra_R6.java # Classe main (exemplo de uso)
-```
-
 ---
 
 ## 📌 Requisitos da Atividade
@@ -76,9 +57,9 @@ equipeDefensora.mostrarEquipe();
 
 ## 👤 Autor
 
-- Nome: [Seu Nome Aqui]
-- Professor: [Nome do Professor]
-- Data de entrega: [__/__/____]
+- Nome: [Thomás Kriger de Souza]
+- Professor: [Cassio Capucho Peçanha]
+- Data de entrega: [25/05/2025]
 
 ---
 
