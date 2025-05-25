@@ -20,7 +20,10 @@ public class Equipe {
         for (Operador op : operadores) {
             op.exibirOperador();
             op.executarAcaoBomba();
-            ((IGadgetEspecial)op).usarGadgetEspecial();
+            if (op instanceof Defensor) {
+                ((IReforçar) op).reforçarParede();
+            }
+            //((IReforçar)op).usarGadgetEspecial();
             System.out.println();
         }
     }

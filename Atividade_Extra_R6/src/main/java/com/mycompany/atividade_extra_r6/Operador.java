@@ -15,7 +15,7 @@ public abstract class Operador {
     }
     
         public void exibirOperador() {
-        System.out.println("Codinome: " + codinome + " | Velocidade: " + velocidade + " | Blindagem: " + blindagem);
+        System.out.println("Codinome: " + codinome + " | Velocidade: " + velocidade + " | Blindagem: " + blindagem + " | Gadget: " + gadget);
     }
 
     public abstract void executarAcaoBomba();

@@ -1,7 +1,7 @@
 package com.mycompany.atividade_extra_r6;
 
 
-public class Defensor extends Operador implements IGadgetEspecial {
+public class Defensor extends Operador implements IReforçar {
 
     public Defensor(String codinome, int velocidade, int blindagem, String gadget) {
         super(codinome, velocidade, blindagem, gadget);
@@ -13,8 +13,8 @@ public class Defensor extends Operador implements IGadgetEspecial {
     }
 
     @Override
-    public void usarGadgetEspecial() {
-        System.out.println("O defensor " + codinome + " usa " + gadget);
+    public void reforçarParede() {
+        System.out.println("O defensor " + codinome + " está reforçando a parede!");
     }
 
     @Override
