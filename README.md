@@ -57,9 +57,9 @@ equipeDefensora.mostrarEquipe();
 
 ## 👤 Autor
 
-- Nome: [Thomás Kriger de Souza]
-- Professor: [Cassio Capucho Peçanha]
-- Data de entrega: [25/05/2025]
+- Nome: Thomás Kriger de Souza
+- Professor: Cassio Capucho Peçanha
+- Data de entrega: 25/05/2025
 
 ---
 
